@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ojos-de-medianoche/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Ojos de medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ojos-de-medianoche/) |
+| **Get License** | [Secure Licensing Rights for Ojos de medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ojos-de-medianoche/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, tus ojos brillan más que la ciudad entera
+> You got me falling, me tienes a tu manera
+> Cien por hora en la avenida, pero el tiempo para
+> Si me miras así, mami, mi mente se dispara
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
