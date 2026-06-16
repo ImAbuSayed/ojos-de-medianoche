@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ojos-de-medianoche/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Ojos de medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ojos-de-medianoche/) |
+| **Get License** | [Get a Licensing Quote for Ojos de medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ojos-de-medianoche/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `069dc8224530bfa2201fde8cc5e31abd14483c20ebf3789a9fc3a12466e4e257` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

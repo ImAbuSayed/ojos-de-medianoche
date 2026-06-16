@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ojos de medianoche
+
+This log tracks the cryptographic history and versioning for the song **Ojos de medianoche** (ojos-de-medianoche).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T14:54:25.117029 | `v1` | `069dc8224530bfa2201fde8cc5e31abd14483c20ebf3789a9fc3a12466e4e257` | `66cb5d943e6a9ac514b17f1bc4a40b1cfb217b9210aeb354a67d3b37ce00fbae` | `2026-06-16_ojos-de-medianoche-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
